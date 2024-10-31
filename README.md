@@ -1,8 +1,12 @@
 # 🌐 Pemrosesan Bahasa Alami dengan Hugging Face Transformers
 
 <p align="center">
-  <img src="https://www.python.org/community/logos/python-logo.png" alt="Logo Python" width="120"/>
-  <img src="https://jupyter.org/assets/main-logo.svg" alt="Logo Jupyter" width="120"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="100" height="100"/> 
+  </a>
+  <a href="https://jupyter.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="100" height="100"/> 
+  </a>
 </p>
 
 ---
