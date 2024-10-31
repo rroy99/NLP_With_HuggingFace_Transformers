@@ -18,7 +18,7 @@
 - [Fill-Mask](#fill-mask)
 - [NER](#NER)
 - [Question-Answering](#Question-Answering)
-- [Sentiment Analysis](#Sentiment Analysis)
+- [Sentiment-Analysis](#Sentiment Analysis)
 - [Summarization](#Summarization)
 - [Translation](#Translation)
 
