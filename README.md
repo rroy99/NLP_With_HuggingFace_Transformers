@@ -34,7 +34,7 @@
 ---
 
 ## 🚀 Pendahuluan
-<p>Proyek ini mengeksplorasi berbagai teknik <strong>Natural Language Processing (NLP)</strong> menggunakan pustaka <strong>Hugging Face Transformers</strong>. Setiap teknik menawarkan kemampuan unik untuk memproses dan memahami bahasa manusia.</p>
+<p>Proyek ini mengeksplorasi berbagai teknik <strong>Natural Language Processing (NLP)</strong> menggunakan pustaka (libraries) <strong>Hugging Face Transformers</strong>. Setiap teknik menawarkan kemampuan unik untuk memproses dan memahami bahasa manusia.</p>
 
 ---
 
